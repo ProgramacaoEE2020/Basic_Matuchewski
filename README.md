@@ -9,5 +9,5 @@ código:
 
 programa rodando:
 ![](Resultado do programa MSX_MATUCHEWSKI.png)
-
+![](Resultado do programa MSX_MATUCHEWSKI.png)
 
