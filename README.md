@@ -10,4 +10,3 @@ código:
 programa rodando:
 
 ![](https://github.com/ProgramacaoEE2020/Basic_Matuchewski/blob/master/Resultado%20do%20programa%20MSX_MATUCHEWSKI.png)
-![](Resultado do programa MSX_MATUCHEWSKI.png)
